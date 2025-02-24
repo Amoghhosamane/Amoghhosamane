@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Anmol Janamatti  
+# Hi there! 👋 I'm Amogh Hosamane
 
 <h2>Computer Science Undergrad Learning Web Technologies And CS Fundamentals.</h2>
 
@@ -39,7 +39,7 @@
 
 ## 📫 Contact Me  
 
-- Email: anmoljanamatti098@gmail.com  
-- LinkedIn: [Anmol Janamatti](https://www.linkedin.com/in/anmol-janamatti/)  
+- Email: 
+- LinkedIn: 
 
 🌟 **Let's build something amazing together!**
