@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amogh Hosamane</h1>
-<h3 align="center">"CS Student | Aspiring Software Developer & Engineer"</h3>
+<h3 align="center">"CS Student | Aspiring Software Engineer & Developer  "</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
