@@ -67,9 +67,7 @@
 <a href="https://www.leetcode.com/u/amogh009/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
-<a href="https://www.codechef.com/users/YOUR-CODECHEF-HANDLE" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="codechef" height="30" width="40" />
-</a>
+
 </p>
 
 <h3 align="left">Stats and Progress:</h3>
