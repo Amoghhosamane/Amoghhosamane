@@ -73,6 +73,5 @@
 <h3 align="left">Stats and Progress:</h3>
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 <img align="center" src="https://leetcode-stats.vercel.app/api?username=amogh009" alt="LeetCode Stats" />
 </p>
