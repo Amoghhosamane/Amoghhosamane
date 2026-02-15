@@ -41,11 +41,7 @@
 
 ### 📊 GitHub & Coding Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh009&layout=compact&theme=vision-friendly-dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=amogh009&show_icons=true&theme=vision-friendly-dark" height="160"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amogh009&theme=vision-friendly-dark" height="160"/>
-  <br/>
+
   <img src="https://leetcode-stats.vercel.app/api?username=amogh009" height="160"/>
 </p>
 
