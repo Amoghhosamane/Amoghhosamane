@@ -13,8 +13,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 CS Student  
-- 💻 Aspiring Software Engineer & Developer  
-- 🌱 Currently learning **Next.js & Backend Development**  
+- 💻 Aspiring SWE & AI/ML engineer
+- 🌱 Currently into MLops and DL  
 - 🤝 Looking to collaborate on **open-source web projects**  
 - ✉️ Reach me at **amoghvarsh9614@gmail.com**  
 
