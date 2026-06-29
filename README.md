@@ -93,14 +93,6 @@ status      : [●] Open to collaborate
   <img src="https://leetcode-stats.vercel.app/api?username=amogh009&theme=dark" height="200" />
 </div>
 
----
-
-$ git stats --all
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amogh009&show_icons=true&theme=transparent&title_color=6EE7B7&text_color=9CA3AF&icon_color=6EE7B7&border_color=30363D&count_private=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh009&layout=compact&theme=transparent&title_color=6EE7B7&text_color=9CA3AF&border_color=30363D" height="170" /> </div>
-$ git streak --current
-<div align="center"> <img src="https://streak-stats.demolab.com?user=amogh009&theme=transparent&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&sideLabels=9CA3AF&currStreakNum=6EE7B7&dates=9CA3AF&border=30363D" height="170" /> </div>
-$ git activity --graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh009&theme=github-compact&color=6EE7B7&line=6EE7B7&point=FFFFFF&area=true&hide_border=true" /> </div>
 
 ## `$ cat github_trophies.log`
 
