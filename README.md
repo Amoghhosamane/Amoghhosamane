@@ -19,6 +19,12 @@
 
 CS student and AI researcher building intelligent, production-grade software. Research background in LLMs, RAG, and agentic systems across NUS, ANU, and Insight Research Ireland — now focused on turning that research into shipped AI products.
 
+<div align="center">
+
+> **Nobody is good at the start. Nobody is bad after 10,000 attempts.**
+
+</div>
+
 ---
 
 ## Featured Product
