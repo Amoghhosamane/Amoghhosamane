@@ -13,6 +13,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=6EE7B7)](https://linkedin.com/in/amogh-s-hosamane-835823258)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=6EE7B7)](mailto:amoghvarsh9614@gmail.com)
 
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=amogh009&color=6EE7B7&style=flat-square&label=PROFILE+VIEWS)](https://github.com/amogh009)
+
 </div>
 
 <br>
